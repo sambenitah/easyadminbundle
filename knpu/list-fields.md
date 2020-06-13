@@ -61,7 +61,7 @@ And more importantly, in a few minutes, we'll look at a list of *all* of the val
 types and their options.
 
 Ok! Close the profiler tab and refresh. Bam! The table has our 6 columns!
-
+sss
 ## Customizing the Search View
 
 Try out the search again: look for "quo". Ok nice! Without any work, the search
